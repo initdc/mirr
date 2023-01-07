@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require_relative "mirr/version"
-
 module Mirr
+  module Software
+  end
 end
